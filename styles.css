@@ -217,6 +217,15 @@ html[lang="te"] body {
   font-family: var(--font-telugu);
 }
 
+html[lang="te"] .hero-title {
+  line-height: 1.45;
+  letter-spacing: normal;
+}
+
+html[lang="te"] .section-title {
+  line-height: 1.45;
+}
+
 /* Mobile Toggle Menu Button */
 .mobile-nav-toggle {
   display: none;
